@@ -1,0 +1,11 @@
+fecha,tienda,producto,categoria,unidades,precio_unitario
+2025-05-01,Tienda A,Camisa,Ropa,2,20
+2025-05-01,Tienda B,Zapatos,Calzado,1,50
+2025-05-02,Tienda A,Pantalón,Ropa,3,25
+2025-05-02,Tienda C,Camisa,Ropa,2,20
+2025-05-03,Tienda B,Pantalón,Ropa,1,25
+2025-05-03,Tienda A,Zapatos,Calzado,2,50
+2025-05-03,Tienda C,Zapatos,Calzado,2,50
+2025-05-04,Tienda A,Camisa,Ropa,4,20
+2025-05-04,Tienda B,Zapatos,Calzado,3,50
+2025-05-05,Tienda C,Pantalón,Ropa,1,25
